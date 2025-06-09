@@ -1,16 +1,36 @@
-### Hi there 👋
+👋 About Me
 
-<!--
-**Sushant3010/Sushant3010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Sushant, a dedicated and detail-oriented Front-End Developer with a strong foundation in designing and building responsive, user-friendly web applications. I enjoy transforming ideas into functional and elegant digital experiences.
 
-Here are some ideas to get you started:
+🧰 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Frontend: HTML, CSS, JavaScript
+
+Backend & Language Skills: Java, JDBC
+
+Database: MySQL
+
+(Open to exploring new frameworks and tools to expand my skillset)
+
+💼 What I Do
+
+Build modern, responsive UIs
+
+Optimize performance and accessibility
+
+Ensure clean, maintainable, and reusable code
+
+📁 Projects
+
+I’m actively working on front-end projects that focus on clean design and usability. Check out my pinned repositories for recent work and code samples.
+
+📫 Let's Connect
+
+Feel free to connect with me:
+
+LinkedIn- https://www.linkedin.com/in/sushant-ambastha-499a60288/
+
+GitHub- https://github.com/Sushant3010
+
+Email- sushantambstha@gmail.com
+
