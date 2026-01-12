@@ -1,8 +1,8 @@
-👋About Me
+About Me
 ---
 I'm Sushant, a dedicated and detail-oriented Front-End Developer with a strong foundation in designing and building responsive, user-friendly web applications. I enjoy transforming ideas into functional and elegant digital experiences.
 
-🧰 Tech Stack
+ Tech Stack
 ---
 **Frontend**: HTML, CSS, JavaScript
 
@@ -12,7 +12,7 @@ I'm Sushant, a dedicated and detail-oriented Front-End Developer with a strong f
 
 (Open to exploring new frameworks and tools to expand my skillset)
 
-💼 What I Do
+ What I Do
 ---
 Build modern, responsive UIs
 
@@ -20,11 +20,11 @@ Optimize performance and accessibility
 
 Ensure clean, maintainable, and reusable code
 
-📁 Projects
+ Projects
 ---
 I’m actively working on front-end projects that focus on clean design and usability. Check out my pinned repositories for recent work and code samples.
 
-📫 Let's Connect
+ Let's Connect
 ---
 Feel free to connect with me:
 
